@@ -6,7 +6,6 @@ end
 i = i + 1
 puts array
 end
-end
 
 my_each([i]) do |set|
   new_array >> set
