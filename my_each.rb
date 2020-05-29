@@ -5,11 +5,11 @@ i=0
 while i < array.length
 yield array[i]
 i = i + 1
+puts array
 end
 end
 
 my_each(array) do |i|
-  puts i
 end
 
 array
