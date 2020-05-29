@@ -8,5 +8,5 @@ end
 end
 
 my_each([i]) do |set|
-  array
+  new_array >> set
 end
