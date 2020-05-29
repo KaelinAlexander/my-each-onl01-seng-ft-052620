@@ -4,8 +4,6 @@ while i < array.length
   yield(array[i])
   i = i + 1
 end
-puts array
+array
 end
 
-my_each([i])
-end
